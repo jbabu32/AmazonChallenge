@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-04T05:23:15Z" name="Default suite" finished-at="2020-03-04T05:24:43Z" duration-ms="88320">
+    <groups>
+    </groups>
+    <test started-at="2020-03-04T05:23:15Z" name="Default test" finished-at="2020-03-04T05:24:43Z" duration-ms="88320">
+      <class name="com.sunpharma.testcases.AmazonSunPharmaTests">
+        <test-method is-config="true" signature="init_driver()[pri:0, instance:com.sunpharma.testcases.AmazonSunPharmaTests@305b7c14]" started-at="2020-03-04T10:53:15Z" name="init_driver" finished-at="2020-03-04T10:53:36Z" duration-ms="21185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_driver -->
+        <test-method signature="RegistrationTest()[pri:1, instance:com.sunpharma.testcases.AmazonSunPharmaTests@305b7c14]" started-at="2020-03-04T10:53:36Z" name="RegistrationTest" description="verify Registration Test...." finished-at="2020-03-04T10:53:40Z" duration-ms="3850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sunpharma.testcases.AmazonSunPharmaTests@305b7c14]" started-at="2020-03-04T10:53:40Z" name="tearDown" finished-at="2020-03-04T10:53:45Z" duration-ms="5029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init_driver()[pri:0, instance:com.sunpharma.testcases.AmazonSunPharmaTests@305b7c14]" started-at="2020-03-04T10:53:45Z" name="init_driver" finished-at="2020-03-04T10:54:04Z" duration-ms="18852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_driver -->
+        <test-method signature="LoginBuyItemsTest()[pri:2, instance:com.sunpharma.testcases.AmazonSunPharmaTests@305b7c14]" started-at="2020-03-04T10:54:04Z" name="LoginBuyItemsTest" description="verify Login Test...." finished-at="2020-03-04T10:54:38Z" duration-ms="34383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginBuyItemsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sunpharma.testcases.AmazonSunPharmaTests@305b7c14]" started-at="2020-03-04T10:54:38Z" name="tearDown" finished-at="2020-03-04T10:54:43Z" duration-ms="4992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sunpharma.testcases.AmazonSunPharmaTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
